@@ -39,9 +39,3 @@ The system validates URLs to ensure they start with `http://` or `https://` befo
 ## Data Structures Used
 
 - **Stack**: Used to maintain the browsing history (`history`) and the forward history (`fhistory`).
-  
-## Future Enhancements
-
-- Add bookmarks feature.
-- Integrate history with persistent storage (e.g., file or database).
-- Implement GUI for better user interaction.
