@@ -9,7 +9,6 @@ A simple Java-based command-line system to simulate the browsing history of a we
 - **Go Forward**: Move forward to the next page in the forward history.
 - **View History**: Displays the visited URLs in reverse order (most recent first).
 - **Clear History**: Clears both the browsing and forward history.
-- **Current Page**: Displays the current page the user is on.
 
 ## Usage
 
@@ -29,8 +28,7 @@ A simple Java-based command-line system to simulate the browsing history of a we
     - **3. Go Forward**: Move forward to a page in the forward history.
     - **4. View History**: View the complete browsing history.
     - **5. Clear History**: Clear all browsing history.
-    - **6. Current Page**: View the page you are currently on.
-    - **7. Exit**: Exit the browser history program.
+    - **6. Exit**: Exit the browser history program.
 
 ## URL Validation
 
